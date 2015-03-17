@@ -1,6 +1,7 @@
 package ejercicios;
 
 class Pizza {
+	//ejemplo para control de versiones
     private String masa = "";
     private String salsa = "";
     private String relleno = "";
