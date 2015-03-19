@@ -1,6 +1,7 @@
 package ejercicios;
-
+		//modificando desde github
 class Pizza {
+
 	//ejemplo para control de versiones
     private String masa = "";
     private String salsa = "";
@@ -36,7 +37,7 @@ class HawaiPizzaBuilder extends PizzaBuilder {
 class PicantePizzaBuilder extends PizzaBuilder {
     public void buildMasa()   { pizza.setMasa("cocida"); }
     public void buildSalsa()   { pizza.setSalsa("picante"); }
-    public void buildRelleno() { pizza.setRelleno("pimienta+salchichón"); }
+    public void buildRelleno() { pizza.setRelleno("pimienta+salchichÃ³n"); }
 }
  
  
